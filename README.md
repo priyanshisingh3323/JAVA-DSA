@@ -29,17 +29,4 @@ I've included my detailed handwritten notes, providing explanations and insights
 2. **Clone the Repository:** Clone this repository to your local machine using `git clone <repository-url>`.
 3. **Learn and Contribute:** Feel free to learn from the codes and contribute by adding your own solutions or improvements.
 
-## Contribution Guidelines 🤝
-
-- If you'd like to contribute your own DSA solutions, please fork this repository and create a pull request.
-- Ensure your code is well-documented and follows best practices.
-- Feel free to add additional topics or improve existing solutions.
-
-## Connect with Me 🌐
-
-Let's connect and collaborate! If you have questions, suggestions, or just want to say hi, feel free to reach out:
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mandartule)
-- **Email:** mandartule5@gmail.com
-
 Happy coding! 🚀✨
